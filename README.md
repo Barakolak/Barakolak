@@ -4,16 +4,13 @@
 ### Welcome to my Github profile! 🌱
 
 <!-- Social Media Accounts -->
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-
+[![Twitter][1.1]][1]
+[![Facebook][2.1]][2]
+[![Linkedin][3.1]][3]
 
 [1]: https://twitter.com/barakkolak
 [2]: https://www.facebook.com/profile.php?id=100014012057129
+[2]: https://www.linkedin.com/in/burakcolak/
 <!-- Social Media Accounts Ends -->
 
 
