@@ -1,7 +1,7 @@
 ### Hello! 👋
 ### My name is Burak 🔭
 ### Welcome to my Github profile! ⚡
-
+<br/>
 ![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
 <br/>
 <img align="center" src="https://img.shields.io/badge/<C>-<blue>" >
@@ -11,7 +11,7 @@
 <img align="center" src="https://img.shields.io/badge/<CSS>-<yellow>" >
 <img align="center" src="https://img.shields.io/badge/<SQL>-<yellow>" >
 <img align="center" src="https://img.shields.io/badge/<Arduino>-<yellow>" >
-
+<br/>
 
 ![Mando](https://i.pinimg.com/originals/63/f5/11/63f5114e1e8ffc8e73201cb7af700862.gif)
 
