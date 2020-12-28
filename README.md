@@ -2,7 +2,8 @@
 ### My name is Burak 🔭
 ### Welcome to my Github profile! ⚡
 
-[![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
+![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?Barakolak=<Barakolak>&theme=<THEME_NAME>" />
 <img align="center" src="https://img.shields.io/badge/<C>-<>-<BLUE>" >
 <img align="center" src="https://img.shields.io/badge/<Python>-<>-<BLUE>" >
