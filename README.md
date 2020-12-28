@@ -3,6 +3,20 @@
 ### Electrical Engineering ⚡ && Economy Student :chart_with_upwards_trend:
 ### Welcome to my Github profile! 🌱
 
+<!-- Social Media Accounts -->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+
+
+[1]: https://twitter.com/barakkolak
+[2]: https://www.facebook.com/profile.php?id=100014012057129
+<!-- Social Media Accounts Ends -->
+
+
 ![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
 <br/>
 <img align="center" src="https://img.shields.io/badge/<C>-<blue>" >
