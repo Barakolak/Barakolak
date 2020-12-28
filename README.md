@@ -5,8 +5,13 @@
 ![Barakolak's github stats](https://github-readme-stats.vercel.app/api?username=Barakolak)
 <br/>
 <img align="center" src="https://img.shields.io/badge/<C>-<blue>" >
-<img align="center" src="https://img.shields.io/badge/<Python>-:star:-<green>" >
-<img align="center" src="https://img.shields.io/badge/<JS>-:star:-<yellow>" >
+<img align="center" src="https://img.shields.io/badge/<Python>-<green>" >
+<img align="center" src="https://img.shields.io/badge/<JS>-<yellow>" >
+<img align="center" src="https://img.shields.io/badge/<HTML>-<yellow>" >
+<img align="center" src="https://img.shields.io/badge/<CSS>-<yellow>" >
+<img align="center" src="https://img.shields.io/badge/<SQL>-<yellow>" >
+<img align="center" src="https://img.shields.io/badge/<Arduino>-<yellow>" >
+
 
 ![Mando](https://i.pinimg.com/originals/63/f5/11/63f5114e1e8ffc8e73201cb7af700862.gif)
 
