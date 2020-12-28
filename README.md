@@ -1,6 +1,7 @@
 ### Hi there 👋
-# My Name Is Burak
-## Welcome to my Github profile!
+### My name is Burak
+### Welcome to my Github profile!
+![Alt Text](https://i.pinimg.com/originals/63/f5/11/63f5114e1e8ffc8e73201cb7af700862.gif)
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?Barakolak=<Barakolak>&theme=<THEME_NAME>" />
 <img align="center" src="https://img.shields.io/badge/<C>-<>-<BLUE>" >
 <img align="center" src="https://img.shields.io/badge/<Python>-<>-<BLUE>" >
