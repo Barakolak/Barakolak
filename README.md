@@ -1,6 +1,6 @@
 ### Hello! 👋
 ### My name is Burak 🔭
-### Electrical Engineering ⚡ && Economy Student :chart_with_upwards_trend:
+### Electrical Engineering ⚡ && Economics Student :chart_with_upwards_trend:
 ### Welcome to my Github profile! 🌱
 
 <!-- Social Media Accounts -->
